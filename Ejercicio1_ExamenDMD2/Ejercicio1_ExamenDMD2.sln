@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Ejercicio1_ExamenDMD2", "Ejercicio1_ExamenDMD2.dwproj", "{CC9FD4AF-A246-43CE-95E9-9DE3AE831AD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC9FD4AF-A246-43CE-95E9-9DE3AE831AD8}.Development|Default.ActiveCfg = Development
+		{CC9FD4AF-A246-43CE-95E9-9DE3AE831AD8}.Development|Default.Build.0 = Development
+		{CC9FD4AF-A246-43CE-95E9-9DE3AE831AD8}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

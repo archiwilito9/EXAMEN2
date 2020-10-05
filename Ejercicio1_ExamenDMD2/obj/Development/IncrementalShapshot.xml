@@ -1,0 +1,89 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>Ejercicio1_ExamenDMD2</Database>
+    <Server>DESKTOP-NP9F6VC\MSSQLSERVER2012</Server>
+    <ConnectionString>DataSource=DESKTOP-NP9F6VC\MSSQLSERVER2012;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>KsszQGtI8xVthP70kf6k+/CrzTA=1/10/2020 21:30:541/10/2020 21:30:54</TimeStamp>
+        <ID>
+          <String>Northwind Data Mart</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>hbfum/nPW9isprBCQj1qXx8kU60=2/10/2020 18:35:561/10/2020 21:31:58</TimeStamp>
+        <ID>
+          <String>Northwind Data Mart</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>OpR9ChJFqJBuc4ej99yumEunC6Y=1/10/2020 22:06:411/10/2020 21:40:30</TimeStamp>
+        <ID>
+          <String>Proveedor</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>jirUx3HPT3tZe9+zq/5wTB/ErX0=1/10/2020 21:40:311/10/2020 21:40:31</TimeStamp>
+        <ID>
+          <String>Tiempo</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>SjBkStRrjFMGUOrTafn5zxHQHMk=1/10/2020 22:06:401/10/2020 21:40:31</TimeStamp>
+        <ID>
+          <String>Empleado</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>ah9Mrw9xKghSKn6KXEZl9BPMoh4=1/10/2020 22:06:401/10/2020 21:40:31</TimeStamp>
+        <ID>
+          <String>Cliente</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>19a8JdUYJEUJoeU2x+HercR8dks=2/10/2020 18:35:561/10/2020 21:40:31</TimeStamp>
+        <ID>
+          <String>Producto</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>i2ZwALeSXoFeQGXFHBkaGKUQAdY=1/10/2020 22:33:181/10/2020 21:40:30f41zBya4u9P/3na1eP+HJE8Rs4o=1/10/2020 21:40:311/10/2020 21:40:30</TimeStamp>
+        <ID>
+          <String>Northwind Data Mart</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>SfRuHiK+t4LfFcfse3aHd5o+CtU=1/10/2020 21:08:431/10/2020 21:08:41</TimeStamp>
+      <ID>
+        <String>Ejercicio1_ExamenDMD2</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2020-10-03T00:36:06.253333Z</LastDeployed>
+</DeploymentSnapshot>
