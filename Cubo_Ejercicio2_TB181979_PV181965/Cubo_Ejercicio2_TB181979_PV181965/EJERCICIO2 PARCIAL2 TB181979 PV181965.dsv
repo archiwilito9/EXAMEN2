@@ -1,0 +1,171 @@
+﻿<DataSourceView xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="010bb15c-720d-4828-a9f0-a9f92f1fec0c" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>EJERCICIO2 PARCIAL2 TB181979 PV181965</ID>
+  <Name>EJERCICIO2 PARCIAL2 TB181979 PV181965</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:CurrentLayout</Name>
+      <Value>_ALL_TABLES_</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:SchemaRestriction</Name>
+      <Value></Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:RetrieveRelationships</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:Layouts</Name>
+      <Value>
+        <Layouts xmlns="">
+          <Diagram>
+            <Name>_ALL_TABLES_</Name>
+            <DiagramLayout />
+            <ShowRelationshipNames>False</ShowRelationshipNames>
+            <UseDiagramDefaultLayout>True</UseDiagramDefaultLayout>
+            <DiagramViewPortLeft>0</DiagramViewPortLeft>
+            <DiagramViewPortTop>0</DiagramViewPortTop>
+            <DiagramBoundingLeft>0</DiagramBoundingLeft>
+            <DiagramBoundingTop>0</DiagramBoundingTop>
+            <DiagramZoom>100</DiagramZoom>
+          </Diagram>
+        </Layouts>
+      </Value>
+    </Annotation>
+  </Annotations>
+  <DataSourceID>EJERCICIO2 PARCIAL2 TB181979 PV181965</DataSourceID>
+  <Schema>
+    <xs:schema id="EJERCICIO2_x0020_PARCIAL2_x0020_TB181979_x0020_PV181965" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+      <xs:element name="EJERCICIO2_x0020_PARCIAL2_x0020_TB181979_x0020_PV181965" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:design-time-name="51e8c4b1-8a9f-40ca-8eb9-77b4bbe8c694">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="dbo_CostaRica" msprop:design-time-name="822350e6-8d7e-438d-b050-4f9ec8e3abae" msprop:DbTableName="CostaRica" msprop:FriendlyName="CostaRica" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="id_cambio" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="0869650f-b0ff-48fe-b050-ec85737e0c5d" msprop:DbColumnName="id_cambio" msprop:FriendlyName="id_cambio" type="xs:int" />
+                  <xs:element name="retail_and_recreation_percent_change_from_baseline" msprop:design-time-name="252344ae-4cf4-43ee-b515-455027e4daa6" msprop:DbColumnName="retail_and_recreation_percent_change_from_baseline" msprop:FriendlyName="retail_and_recreation_percent_change_from_baseline" type="xs:int" minOccurs="0" />
+                  <xs:element name="grocery_and_pharmacy_percent_change_from_baseline" msprop:design-time-name="7fcd0dd4-75aa-4871-a967-5e7a28a23935" msprop:DbColumnName="grocery_and_pharmacy_percent_change_from_baseline" msprop:FriendlyName="grocery_and_pharmacy_percent_change_from_baseline" type="xs:int" minOccurs="0" />
+                  <xs:element name="parks_percent_change_from_baseline" msprop:design-time-name="859aeb70-87b7-4773-b519-97465a3e3051" msprop:DbColumnName="parks_percent_change_from_baseline" msprop:FriendlyName="parks_percent_change_from_baseline" type="xs:int" minOccurs="0" />
+                  <xs:element name="transit_stations_percent_change_from_baseline" msprop:design-time-name="70ccce6b-0635-41d3-af92-fde6a6975e4b" msprop:DbColumnName="transit_stations_percent_change_from_baseline" msprop:FriendlyName="transit_stations_percent_change_from_baseline" type="xs:int" minOccurs="0" />
+                  <xs:element name="workplaces_percent_change_from_baseline" msprop:design-time-name="95c07ef2-afc5-48bf-a53a-77b613c2f6f4" msprop:DbColumnName="workplaces_percent_change_from_baseline" msprop:FriendlyName="workplaces_percent_change_from_baseline" type="xs:int" minOccurs="0" />
+                  <xs:element name="residential_percent_change_from_baseline" msprop:design-time-name="cd597b7b-3f90-4132-a070-4c18d23a9656" msprop:DbColumnName="residential_percent_change_from_baseline" msprop:FriendlyName="residential_percent_change_from_baseline" type="xs:int" minOccurs="0" />
+                  <xs:element name="id_pais" msprop:design-time-name="513d5a10-a189-4485-8809-fe4b6cad1cb0" msprop:DbColumnName="id_pais" msprop:FriendlyName="id_pais" type="xs:int" minOccurs="0" />
+                  <xs:element name="id_fecha" msprop:design-time-name="92591e5e-21da-4b21-b69a-a1a47f3fe56e" msprop:DbColumnName="id_fecha" msprop:FriendlyName="id_fecha" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_Departamento" msprop:design-time-name="1e9b15bf-8550-418c-8f6c-f921880ade7a" msprop:DbTableName="Departamento" msprop:FriendlyName="Departamento" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="id_departamento" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="651d7f45-ca6b-4ade-a9ba-24f3b63915b0" msprop:DbColumnName="id_departamento" msprop:FriendlyName="id_departamento" type="xs:int" />
+                  <xs:element name="pri_region" msprop:design-time-name="6c26298f-b961-4be7-a328-3d25099a33cd" msprop:DbColumnName="pri_region" msprop:FriendlyName="pri_region" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="100" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="seg_region" msprop:design-time-name="272cd6f1-e8d0-42f2-b60c-f19f44413329" msprop:DbColumnName="seg_region" msprop:FriendlyName="seg_region" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="100" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="area_metro" msprop:design-time-name="96851d99-b579-4870-a57b-5ae51750c8a2" msprop:DbColumnName="area_metro" msprop:FriendlyName="area_metro" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="100" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="cod_iso" msprop:design-time-name="6bc1e466-568c-4bb8-9543-575eb557ce3a" msprop:DbColumnName="cod_iso" msprop:FriendlyName="cod_iso" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="100" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="cod_census" msprop:design-time-name="9f497a7f-dd93-4543-9c7c-cf6b2f3eaf86" msprop:DbColumnName="cod_census" msprop:FriendlyName="cod_census" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="100" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="id_pais" msprop:design-time-name="2b39bc4a-6829-4e84-808e-f8024fcf11c1" msprop:DbColumnName="id_pais" msprop:FriendlyName="id_pais" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_Fecha" msprop:design-time-name="d1358dd6-c10a-47da-ad79-a17e682357c2" msprop:DbTableName="Fecha" msprop:FriendlyName="Fecha" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="id_fecha" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="1e0d6bed-0faa-44e7-9ebb-51513dcd5081" msprop:DbColumnName="id_fecha" msprop:FriendlyName="id_fecha" type="xs:int" />
+                  <xs:element name="dia" msprop:design-time-name="7d53fa7d-0a4e-4d34-9b8d-0c5e6312b87d" msprop:DbColumnName="dia" msprop:FriendlyName="dia" type="xs:int" minOccurs="0" />
+                  <xs:element name="mes" msprop:design-time-name="442c2ebd-7b02-4c12-a2c6-268a05118300" msprop:DbColumnName="mes" msprop:FriendlyName="mes" type="xs:int" minOccurs="0" />
+                  <xs:element name="annio" msprop:design-time-name="e2fb7757-570e-4beb-975d-cd7630a87ea8" msprop:DbColumnName="annio" msprop:FriendlyName="annio" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_Pais" msprop:design-time-name="7842550b-2328-4d77-beeb-850e1a4feea8" msprop:DbTableName="Pais" msprop:FriendlyName="Pais" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="id_pais" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="2a69807a-a569-4fd2-987d-3841b605d369" msprop:DbColumnName="id_pais" msprop:FriendlyName="id_pais" type="xs:int" />
+                  <xs:element name="codigo_pais" msprop:design-time-name="20174603-7971-4938-8ce0-81da662775b1" msprop:DbColumnName="codigo_pais" msprop:FriendlyName="codigo_pais" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="2" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="nombre_pais" msprop:design-time-name="f83a5142-bbd3-4b5c-8d84-9e7190af2323" msprop:DbColumnName="nombre_pais" msprop:FriendlyName="nombre_pais" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="20" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+        <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_CostaRica" />
+          <xs:field xpath="id_cambio" />
+        </xs:unique>
+        <xs:unique name="dbo_Departamento_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_Departamento" />
+          <xs:field xpath="id_departamento" />
+        </xs:unique>
+        <xs:unique name="dbo_Fecha_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_Fecha" />
+          <xs:field xpath="id_fecha" />
+        </xs:unique>
+        <xs:unique name="dbo_Pais_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_Pais" />
+          <xs:field xpath="id_pais" />
+        </xs:unique>
+        <xs:keyref name="FK__Departame__id_pa__4F7CD00D" refer="dbo_Pais_Constraint1">
+          <xs:selector xpath=".//dbo_Departamento" />
+          <xs:field xpath="id_pais" />
+        </xs:keyref>
+        <xs:keyref name="FK__CostaRica__id_fe__5165187F" refer="dbo_Fecha_Constraint1">
+          <xs:selector xpath=".//dbo_CostaRica" />
+          <xs:field xpath="id_fecha" />
+        </xs:keyref>
+        <xs:keyref name="FK__CostaRica__id_pa__5070F446" refer="dbo_Pais_Constraint1">
+          <xs:selector xpath=".//dbo_CostaRica" />
+          <xs:field xpath="id_pais" />
+        </xs:keyref>
+      </xs:element>
+    </xs:schema>
+    <EJERCICIO2_x0020_PARCIAL2_x0020_TB181979_x0020_PV181965 xmlns="" />
+  </Schema>
+</DataSourceView>
