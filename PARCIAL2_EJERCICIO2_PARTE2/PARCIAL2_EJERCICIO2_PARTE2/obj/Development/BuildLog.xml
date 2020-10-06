@@ -1,29 +1,29 @@
 <?xml version="1.0"?>
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
-    <Name>PARCIAL2_EJERCICIO2-PARTE2</Name>
-    <LastWriteTime>2020-10-04T23:25:13.4607392Z</LastWriteTime>
+    <Name>PARCIAL2_EJERCICIO2_PARTE2</Name>
+    <LastWriteTime>2020-10-06T17:42:02.8478932Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>Package1.dtsx</Name>
-      <LastWriteTime>2020-10-04T23:15:05.0239386Z</LastWriteTime>
+      <LastWriteTime>2020-10-06T17:24:50.7841712Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Package2.dtsx</Name>
-      <LastWriteTime>2020-10-04T23:18:06.1272971Z</LastWriteTime>
+      <LastWriteTime>2020-10-06T17:32:02.8487231Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Package3.dtsx</Name>
-      <LastWriteTime>2020-10-04T23:18:06.0942952Z</LastWriteTime>
+      <LastWriteTime>2020-10-06T17:38:10.1500653Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Package4.dtsx</Name>
-      <LastWriteTime>2020-10-04T23:25:13.3827347Z</LastWriteTime>
+      <LastWriteTime>2020-10-06T17:42:02.6958991Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>

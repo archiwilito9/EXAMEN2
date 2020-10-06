@@ -1,14 +1,14 @@
-﻿<Cube xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="7479757a-2f9e-473a-97da-6bff79901d96" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+﻿<Cube xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="b353f0ef-a118-4c1a-a6f0-7fcc05b91427" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
   <ID>EJERCICIO2 PARCIAL2 TB181979 PV181965</ID>
   <Name>EJERCICIO2 PARCIAL2 TB181979 PV181965</Name>
-  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
-  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <CreatedTimestamp>0001-01-01T06:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T06:00:00Z</LastSchemaUpdate>
   <Annotations>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
       <Value>
         <dds xmlns="">
-          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="6" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-1328" scrolltop="-957" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="16801" y="12330" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="12" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-1773" scrolltop="-3889" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="75" x="16801" y="12039" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
             <font>
               <ddsxmlobjectstreamwrapper binary="01000000900144420100065461686f6d61" />
             </font>
@@ -19,7 +19,7 @@
           <layoutmanager>
             <ddsxmlobj />
           </layoutmanager>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Pais" left="10675" top="1270" logicalid="1" controlid="1" masterid="0" hint1="0" hint2="0" width="3000" height="2302" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Pais" left="10675" top="1270" logicalid="6" controlid="1" masterid="0" hint1="0" hint2="0" width="3000" height="2302" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e0000b80b0000fe080000" />
             </control>
@@ -30,7 +30,7 @@
             </layoutobject>
             <shape groupshapeid="0" groupnode="0" />
           </ddscontrol>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Fecha" left="2647" top="7242" logicalid="2" controlid="2" masterid="0" hint1="0" hint2="0" width="3000" height="2725" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Fecha" left="2647" top="7242" logicalid="7" controlid="2" masterid="0" hint1="0" hint2="0" width="3000" height="2725" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e0000b80b0000a50a0000" />
             </control>
@@ -41,7 +41,7 @@
             </layoutobject>
             <shape groupshapeid="0" groupnode="0" />
           </ddscontrol>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="CostaRica" left="20" top="0" logicalid="3" controlid="3" masterid="0" hint1="0" hint2="0" width="8255" height="4842" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="CostaRica" left="20" top="0" logicalid="8" controlid="3" masterid="0" hint1="0" hint2="0" width="8255" height="4842" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e00003f200000ea120000" />
             </control>
@@ -52,7 +52,7 @@
             </layoutobject>
             <shape groupshapeid="0" groupnode="0" />
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="7975" top="2022" logicalid="4" controlid="4" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="7975" top="2022" logicalid="9" controlid="4" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -60,7 +60,7 @@
             </control>
             <layoutobject>
               <ddsxmlobj>
-                <property name="LogicalObject" value="dataSet.Relations[FK__CostaRica__id_pa__5070F446]" vartype="8" />
+                <property name="LogicalObject" value="dataSet.Relations[FK__CostaRica__id_pa__2B3F6F97]" vartype="8" />
                 <property name="Virtual" value="0" vartype="11" />
                 <property name="VisibleAP" value="0" vartype="3" />
               </ddsxmlobj>
@@ -70,7 +70,7 @@
               <point x="8275" y="2421" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="3748" top="4542" logicalid="5" controlid="5" masterid="0" hint1="0" hint2="0" width="799" height="3200" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="3748" top="4542" logicalid="10" controlid="5" masterid="0" hint1="0" hint2="0" width="799" height="3200" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -78,7 +78,7 @@
             </control>
             <layoutobject>
               <ddsxmlobj>
-                <property name="LogicalObject" value="dataSet.Relations[FK__CostaRica__id_fe__5165187F]" vartype="8" />
+                <property name="LogicalObject" value="dataSet.Relations[FK__CostaRica__id_fe__2C3393D0]" vartype="8" />
                 <property name="Virtual" value="0" vartype="11" />
                 <property name="VisibleAP" value="0" vartype="3" />
               </ddsxmlobj>
@@ -105,11 +105,11 @@
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
-      <Value>-1328</Value>
+      <Value>-1773</Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
-      <Value>-957</Value>
+      <Value>-3889</Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
@@ -121,128 +121,125 @@
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
-      <Value>100</Value>
+      <Value>75</Value>
     </Annotation>
   </Annotations>
-  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <LastProcessed>0001-01-01T06:00:00Z</LastProcessed>
   <State>Unprocessed</State>
   <Dimensions>
-    <Dimension dwd:design-time-name="f40543af-b8e9-438a-b36a-5179b2bea4b0">
-      <ID>Pais</ID>
-      <Name>Pais</Name>
-      <DimensionID>Pais</DimensionID>
-      <Attributes>
-        <Attribute dwd:design-time-name="6a91b2b0-8b9c-44e1-890e-d47f4101b26e">
-          <AttributeID>Id Pais</AttributeID>
-        </Attribute>
-        <Attribute dwd:design-time-name="b38dd729-2eec-4d3a-b3ad-ed783b980ad9">
-          <AttributeID>Nombre Pais</AttributeID>
-        </Attribute>
-      </Attributes>
-    </Dimension>
-    <Dimension dwd:design-time-name="f34097be-00a8-4ba0-849b-e91106b3085a">
+    <Dimension dwd:design-time-name="c6ae688d-a8d2-4a92-a6b6-031a327e987d">
       <ID>Fecha</ID>
       <Name>Fecha</Name>
       <DimensionID>Fecha</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="d7644179-aba2-4371-b73b-c2f1f857aa3f">
+        <Attribute dwd:design-time-name="b62b5c5f-c2f0-4eea-9e7b-a17b4c0dff50">
           <AttributeID>Id Fecha</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="7e01b9f4-a26a-443c-8e58-6043ee52310f">
-          <AttributeID>Dia</AttributeID>
-        </Attribute>
-        <Attribute dwd:design-time-name="f3872731-b7c5-4293-ac71-696ad3c78676">
+        <Attribute dwd:design-time-name="639fbb1b-ae41-4589-8995-09a2df380688">
           <AttributeID>Mes</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="ec025b31-7cc8-45d9-a5cb-bbe21a0b73e8">
-          <AttributeID>Annio</AttributeID>
+        <Attribute dwd:design-time-name="62534822-9763-474e-81b8-1b939776d808">
+          <AttributeID>Nombre Mes</AttributeID>
+        </Attribute>
+      </Attributes>
+    </Dimension>
+    <Dimension dwd:design-time-name="67c7b6ea-169a-49cd-bb19-fd2c6fbf8896">
+      <ID>Pais</ID>
+      <Name>Pais</Name>
+      <DimensionID>Pais</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="7c173849-a5d6-415d-ae8b-f75b9e3ea294">
+          <AttributeID>Id Pais</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="4baafccd-59e3-4d14-aa53-6c37534c9a61">
+          <AttributeID>Nombre Pais</AttributeID>
         </Attribute>
       </Attributes>
     </Dimension>
   </Dimensions>
   <MeasureGroups>
-    <MeasureGroup dwd:design-time-name="9f15b178-b6ed-46b4-8769-2d35393c15b3">
+    <MeasureGroup dwd:design-time-name="d9c9950b-f8b0-4cc1-82f1-5a0772de6f80">
       <ID>Costa Rica</ID>
       <Name>Costa Rica</Name>
-      <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
-      <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
-      <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+      <CreatedTimestamp>0001-01-01T06:00:00Z</CreatedTimestamp>
+      <LastSchemaUpdate>0001-01-01T06:00:00Z</LastSchemaUpdate>
+      <LastProcessed>0001-01-01T06:00:00Z</LastProcessed>
       <State>Unprocessed</State>
       <Measures>
-        <Measure dwd:design-time-name="36d7b2c5-550c-4af2-9222-da9ad0df478e">
+        <Measure dwd:design-time-name="93e47077-032d-4ab1-b28e-bd364ed36671">
           <ID>Retail And Recreation Percent Change From Baseline</ID>
           <Name>Retail And Recreation Percent Change From Baseline</Name>
-          <Source dwd:design-time-name="e33d54a3-d908-439b-bd35-706f189df3ab">
+          <Source dwd:design-time-name="c552fa23-c179-4c5f-92fe-cf2ea83cef66">
             <DataType>Integer</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="a0253ced-c11e-4049-a3ea-78d39009d109">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="7f5b5812-012f-48aa-b691-57d3c9879923">
               <TableID>dbo_CostaRica</TableID>
               <ColumnID>retail_and_recreation_percent_change_from_baseline</ColumnID>
             </Source>
           </Source>
         </Measure>
-        <Measure dwd:design-time-name="b4718287-677c-4d2c-9692-6e1cafe8804b">
+        <Measure dwd:design-time-name="965e59a7-a6af-4b29-b31e-d4d15431f347">
           <ID>Grocery And Pharmacy Percent Change From Baseline</ID>
           <Name>Grocery And Pharmacy Percent Change From Baseline</Name>
-          <Source dwd:design-time-name="002a951f-1883-4727-88b9-7593954d1f98">
+          <Source dwd:design-time-name="9dc8357f-7d2f-4440-9890-cfe627083faf">
             <DataType>Integer</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="6cfc99b1-78c3-49aa-ab89-13650b9fe115">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="b7f06c3f-2628-4cea-b02f-eb5157643938">
               <TableID>dbo_CostaRica</TableID>
               <ColumnID>grocery_and_pharmacy_percent_change_from_baseline</ColumnID>
             </Source>
           </Source>
         </Measure>
-        <Measure dwd:design-time-name="21303b7a-a33d-4d76-ba62-1b6c8f1b8bc3">
+        <Measure dwd:design-time-name="f85a5d0b-93ff-4e67-bcff-7e34f890c6cc">
           <ID>Parks Percent Change From Baseline</ID>
           <Name>Parks Percent Change From Baseline</Name>
-          <Source dwd:design-time-name="f165b2e7-55cd-4fe6-bd0c-62f1cb1bcc77">
+          <Source dwd:design-time-name="6243eca7-4ab0-4607-be3d-cb966ee4ce47">
             <DataType>Integer</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="68447e46-d30d-4710-97e6-4dd23123b8cc">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="8e59da1b-0f68-4fa6-a537-020b0499e818">
               <TableID>dbo_CostaRica</TableID>
               <ColumnID>parks_percent_change_from_baseline</ColumnID>
             </Source>
           </Source>
         </Measure>
-        <Measure dwd:design-time-name="fb4f24e1-a88c-470f-be34-f940461d0b40">
+        <Measure dwd:design-time-name="c1fac61d-ce1e-4969-969c-375d35cd1fa3">
           <ID>Transit Stations Percent Change From Baseline</ID>
           <Name>Transit Stations Percent Change From Baseline</Name>
-          <Source dwd:design-time-name="b8e6c9c1-eaf4-4d46-b84c-443d9ebb790d">
+          <Source dwd:design-time-name="c9b93162-afab-47da-965c-59324ab0a09c">
             <DataType>Integer</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="8c5d45ee-0bf2-4559-89e0-8fa4378830fd">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="50f9f19f-56df-4213-b09a-e9080e420a11">
               <TableID>dbo_CostaRica</TableID>
               <ColumnID>transit_stations_percent_change_from_baseline</ColumnID>
             </Source>
           </Source>
         </Measure>
-        <Measure dwd:design-time-name="43611da6-d90c-420f-b248-1a9bac43e046">
+        <Measure dwd:design-time-name="3c5623e7-c022-4143-b798-ca86df4fb96a">
           <ID>Workplaces Percent Change From Baseline</ID>
           <Name>Workplaces Percent Change From Baseline</Name>
-          <Source dwd:design-time-name="4e8578b2-0b59-4667-8fd4-8bda3955bd6b">
+          <Source dwd:design-time-name="55ee6187-d3ab-405c-bbaf-fd9b4a43a9f7">
             <DataType>Integer</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="e940e691-313c-4fb5-a04d-243ed7e8ea0a">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="1baa7bc1-1cc5-42b1-a968-b9b7bf3b8fb5">
               <TableID>dbo_CostaRica</TableID>
               <ColumnID>workplaces_percent_change_from_baseline</ColumnID>
             </Source>
           </Source>
         </Measure>
-        <Measure dwd:design-time-name="84f269c3-30a8-409a-abc4-47c8f9cc44bd">
+        <Measure dwd:design-time-name="9659fa89-b7f1-44c6-8e29-13b8daa1e0e5">
           <ID>Residential Percent Change From Baseline</ID>
           <Name>Residential Percent Change From Baseline</Name>
-          <Source dwd:design-time-name="545a462e-0b2b-4c3e-8e11-5fe7ef792faf">
+          <Source dwd:design-time-name="47e0e05c-a4df-486e-bce4-075aa2db44b6">
             <DataType>Integer</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="b093c6a3-c5a4-4851-b55c-89d0242a6909">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="8139d967-94ba-4be2-9371-0f793a84baf4">
               <TableID>dbo_CostaRica</TableID>
               <ColumnID>residential_percent_change_from_baseline</ColumnID>
             </Source>
           </Source>
         </Measure>
-        <Measure dwd:design-time-name="0922732d-656e-4d9e-b945-bd8f37247356">
+        <Measure dwd:design-time-name="d341c827-1d56-4141-81cc-8ce76980248d">
           <ID>Recuento Costa Rica</ID>
           <Name>Recuento Costa Rica</Name>
           <AggregateFunction>Count</AggregateFunction>
-          <Source dwd:design-time-name="7e818ad2-1697-492a-83bf-481a77945774">
+          <Source dwd:design-time-name="74e551ca-8cdf-4f58-9898-524acf76e2f5">
             <DataType>Integer</DataType>
             <DataSize>4</DataSize>
-            <Source xsi:type="RowBinding" dwd:design-time-name="65e651ca-b755-44a1-9b65-ad932eb233dc">
+            <Source xsi:type="RowBinding" dwd:design-time-name="153c8005-eb24-4d50-884d-9f9a457f5d79">
               <TableID>dbo_CostaRica</TableID>
             </Source>
           </Source>
@@ -251,18 +248,18 @@
       <StorageMode>Molap</StorageMode>
       <ProcessingMode>Regular</ProcessingMode>
       <Dimensions>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="2617d2cb-3426-483f-ba9d-2b8e34a8affb">
-          <CubeDimensionID>Pais</CubeDimensionID>
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="1e9e797d-01ea-4597-914d-40e6b360a6da">
+          <CubeDimensionID>Fecha</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="91552724-5926-41bc-b8f2-4d3e72e916ed">
-              <AttributeID>Id Pais</AttributeID>
+            <Attribute dwd:design-time-name="47c3585f-575c-402c-857d-79af62c9a1a8">
+              <AttributeID>Id Fecha</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="885c2d90-01ea-4d7f-bc67-5449fb2c9e62">
+                <KeyColumn dwd:design-time-name="cb5f0744-2c8d-4333-9126-3178ce051423">
                   <DataType>Integer</DataType>
                   <NullProcessing>UnknownMember</NullProcessing>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="f825abfc-36e6-4b64-a736-58cc40b9ff4a">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="56e85703-6ad2-4a84-b00e-2fa401d68757">
                     <TableID>dbo_CostaRica</TableID>
-                    <ColumnID>id_pais</ColumnID>
+                    <ColumnID>id_fecha</ColumnID>
                   </Source>
                 </KeyColumn>
               </KeyColumns>
@@ -270,18 +267,18 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="280eca84-3a0d-4420-a055-1b88477a74ed">
-          <CubeDimensionID>Fecha</CubeDimensionID>
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="60207453-3341-4f4f-b973-837ea26d6e99">
+          <CubeDimensionID>Pais</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="49dc5800-15e3-4d0a-8da5-b92935067223">
-              <AttributeID>Id Fecha</AttributeID>
+            <Attribute dwd:design-time-name="d2beeaa0-ce25-478c-ae71-7456c003e538">
+              <AttributeID>Id Pais</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="c25e8cd4-d0b7-413f-baec-c9f9c92fd759">
+                <KeyColumn dwd:design-time-name="8d6ef377-a6bb-4cac-b074-e33dcafe5de4">
                   <DataType>Integer</DataType>
                   <NullProcessing>UnknownMember</NullProcessing>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="18ea40e8-ad5a-4dbb-991d-2ec05229e1d1">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="8c2d49e8-3b3b-4705-a8d2-a4dde1afbbc5">
                     <TableID>dbo_CostaRica</TableID>
-                    <ColumnID>id_fecha</ColumnID>
+                    <ColumnID>id_pais</ColumnID>
                   </Source>
                 </KeyColumn>
               </KeyColumns>
@@ -293,7 +290,7 @@
       <Partitions />
     </MeasureGroup>
   </MeasureGroups>
-  <Source dwd:design-time-name="cac95f0b-1aa6-4790-9749-da3a207a547d">
+  <Source dwd:design-time-name="3e0fb1e5-2e42-41eb-abe0-18072b728531">
     <DataSourceViewID>EJERCICIO2 PARCIAL2 TB181979 PV181965</DataSourceViewID>
   </Source>
 </Cube>

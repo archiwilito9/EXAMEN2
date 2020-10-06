@@ -3,7 +3,21 @@
     <Configuration>
       <Name>Development</Name>
       <Options>
-        <TargetServer>localhost</TargetServer>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>EJERCICIO2 PARCIAL2 TB181979 PV181965</Id>
+            <Name>EJERCICIO2 PARCIAL2 TB181979 PV181965</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAif6BTP92pUanVrLwWfRurwAAAABMAAAARQBKAEUAUgBDAEkAQwBJAE8AMgAgAFAAQQBSAEMASQBBAEwAMgAgAFQAQgAxADgAMQA5ADcAOQAgAFAAVgAxADgAMQA5ADYANQAAABBmAAAAAQAAIAAAAAu29N8Rv5XQrg5UzKvk/s5a7XmEYIloheU7JOCqHn5uAAAAAA6AAAAAAgAAIAAAAMie8MYeftTOyW65yIGe8XAfSkQ25FzQYtb7qbtzfYEIIAAAACPX/rPrODQbKPsPF0M7Txo/AHmUVDTKOI9WL1BkRWiaQAAAAADFUe+KknilRseygxofqcWfOxV/HhoHVpDyMZr/4bYLChZF0KfpE7auK5ERtROMx3Cubqwolo99EH94yva0Yo0=</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>EJERCICIO2 PARCIAL2 TB181979 PV181965</Id>
+            <Name>EJERCICIO2 PARCIAL2 TB181979 PV181965</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAif6BTP92pUanVrLwWfRurwAAAABMAAAARQBKAEUAUgBDAEkAQwBJAE8AMgAgAFAAQQBSAEMASQBBAEwAMgAgAFQAQgAxADgAMQA5ADcAOQAgAFAAVgAxADgAMQA5ADYANQAAABBmAAAAAQAAIAAAAA+C2WZ6KstTugc+jqgDK2kkblIpKaonArs/1gCkaZEoAAAAAA6AAAAAAgAAIAAAAOoPy0jrtysOGnijX/sRWOkEU09cj+MIihBPVXXms/faIAAAAN7BJPkmgLM3x9rIWb4Hd33N67yMPpVBZNnA+B0YJ9X+QAAAAHnXNY0kSVkh1ER5Uycyp36srtVnI7zjSHRsjo4WLE4WPwu76otDRbrFg6C+23j+zXth505mG2KVjP6hJ57yfg8=</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>DESKTOP-TUESC17\MARVIN</TargetServer>
         <TargetDatabase>Cubo_Ejercicio2_TB181979_PV181965</TargetDatabase>
         <StartObject>
           <ObjectId></ObjectId>
